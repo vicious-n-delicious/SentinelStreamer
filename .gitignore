@@ -1,0 +1,9 @@
+[Bb]in/
+[Oo]bj/
+publish/
+*.zip
+Technitium.DnsServer.Core.dll
+*.user
+*.suo
+.vscode/
+.idea/
