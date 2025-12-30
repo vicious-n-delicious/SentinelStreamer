@@ -1,0 +1,10 @@
+{
+  "name": "Sentinel Streamer",
+  "id": "com.github.vicious-n-delicious.sentinel",
+  "version": "1.0.0",
+  "description": "High-performance UDP Metric Streamer for InfluxDB & Grafana. Sends DNS query data in Influx Line Protocol.",
+  "website": "https://github.com/<YOUR_REAL_USERNAME>/SentinelStreamer",
+  "authors": "vicious-n-delicious",
+  "tags": ["metrics", "influxdb", "grafana", "udp"],
+  "license": "MIT"
+}
